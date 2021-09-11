@@ -1,0 +1,22 @@
+#button {
+  background-color: #ff6666;
+  margin: 15px 72px;
+  color: white;
+  padding-bottom: 1px;
+  width: 30%;
+  height: 50px;
+  border-radius: 13px 13px 13px 13px;
+  border-bottom-color: gray;
+  font-size: 16px;
+}
+#details{
+	text-align: center;
+	font-size: 35px;
+	color: green;
+}
+.form{
+	margin: 15% 32%;
+} 
+#formlastName{
+	padding: 5px 2px;
+}
